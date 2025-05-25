@@ -25,16 +25,22 @@ google.colab (for file upload).
 Dataset:
 
   Dataset used: Boston Housing Dataset
+  
   Source file: boston.csv (uploaded manually to Colab)
+  
   Target column: MEDV (Median value of owner-occupied homes)
 
 Result:
 
  On Train data
+ 
  R squared_error 0.9999980039471451
+ 
  Mean absolute error 0.0091330346494618
 
  On Test data
+ 
  R squared_error 0.9051721149855378
+ 
  Mean absolute error 2.0748727686264927
 
