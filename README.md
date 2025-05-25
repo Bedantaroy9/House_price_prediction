@@ -14,13 +14,13 @@ Dependencies:
 
 The following Python libraries are used:
 
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-xgboost
-google.colab (for file upload)
+numpy,
+pandas,
+matplotlib,
+seaborn,
+scikit-learn,
+xgboost,
+google.colab (for file upload).
 
 Dataset:
 
