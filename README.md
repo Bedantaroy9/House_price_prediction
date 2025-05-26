@@ -32,13 +32,13 @@ Dataset:
 
 Result:
 
- On Train data
+ On Train data:
  
  R squared_error 0.9999980039471451
  
  Mean absolute error 0.0091330346494618
 
- On Test data
+ On Test data:
  
  R squared_error 0.9051721149855378
  
